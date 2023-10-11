@@ -1,0 +1,38 @@
+h1 {
+
+    color: rgb(255,0,255);	
+	
+	
+}
+
+
+body {
+	
+	background-color: rgb(78,82,79);
+
+
+}
+
+img {
+	padding-top: 80px;;
+}
+
+
+div{ 
+
+padding-left: 600px;
+padding-top: 100px;
+
+}
+
+a { 
+
+padding-left: 700px;
+	
+}
+
+li {
+	
+	color: red;
+}
+
